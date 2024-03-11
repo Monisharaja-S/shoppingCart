@@ -48,7 +48,7 @@ function App() {
      title:"Beaded Bracelets Set", 
      type:"sale", 
       price:"320", 
-      text:"Beaded bracelets sets made of crystal, resin beads, designs of multi-colored and sparkle, that will make your daughter mesmerized.the diameter of each bead is about 8 mm, stretchable size suitable for most age of girls to wear" },
+      text:"Beaded bracelets sets made of crystal, resin beads, designs of multi-colored and sparkle, that will make your daughter mesmerized.the diameter of each bead is about 8 mm, stretchable size and suitable for most age of girls to wear" },
     {id:5,
       img:"/pocketwatch.jpg",
      title:"Pocket Watch",  
