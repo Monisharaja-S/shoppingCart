@@ -45,7 +45,7 @@ function App() {
     text:"Global Grabbers Polyresin Sitting Buddha Idol Statue for Home Decor Decoration. Material: Polyresin. Size (L x W x H): 18.5 cm x 8 cm x 24 cm: Weight : 300 gm. Colour: Orange White Glossy. Care Instruction: Wipe with soft clean cloth.Made In India" },
     {id:4,
       img:"/baby.jpg",
-     title:"Beaded Bracelets Set", 
+     title:"Beaded Set", 
      type:"sale", 
       price:"320", 
       text:"Beaded bracelets sets made of crystal, resin beads, designs of multi-colored and sparkle, that will make your daughter mesmerized.the diameter of each bead is about 8 mm, stretchable size and suitable for most age of girls to wear" },
